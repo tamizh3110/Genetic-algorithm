@@ -1,7 +1,7 @@
 # Genetic-algorithm
 **Genetic algorithm library written in python** 
 
-> Genetic algorithm is an evolutionary algorithm that uses the principles of natural selection such as mutation, crossover and selection and based on a fitness function performs optimization to find optimal solutions. The program can solve
+> Genetic algorithm is an evolutionary algorithm that uses the principles of natural selection such as mutation, crossover, selection and based on a fitness function performs optimization to find optimal solutions. The program can solve
 - One-max problem 
 - Rastrigin problem 
 
