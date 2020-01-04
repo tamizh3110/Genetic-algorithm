@@ -1,7 +1,8 @@
 # Genetic-algorithm
 **Genetic algorithm library written in python** 
 
-> Genetic algorithm is an evolutionary algorithm that can be utilized to find optimal solutions.Here the program is solving the - One-max problem 
+> Genetic algorithm is an evolutionary algorithm that can be utilized to find optimal solutions.Here the program can solve
+- One-max problem 
 - Rastrigin problem 
 
 **How it works**
